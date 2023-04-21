@@ -37,17 +37,17 @@
  
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/b6cf1539d6ab97b08c475c5e94dcd5db233c22fa/imgs/programation_logo/android.svg" alt="android" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/b6cf1539d6ab97b08c475c5e94dcd5db233c22fa/imgs/programation_logo/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
  
-<p>AI/ML</p>  
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<p>Artificial Intelligence / Machine Learning</p>  
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/opencv.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="imgs/programation_logo/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
   
 <p>Database</p> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/mysql.svg" alt="mysql" width="40" height="40"/> </a>  
  
 <p>Devops</p>  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/aws.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/azure.svg" alt="azure" width="40" height="40"/> </a> 
  
 <p>Backend as a Service(BaaS)</p>   
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/firebase.svg" alt="firebase" width="40" height="40"/> </a>
  
 <p>Framework</p>    
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 

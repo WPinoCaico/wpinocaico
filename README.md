@@ -1,8 +1,10 @@
-<h1 align="center">¡Hi!, I'm Williams Pino</h1>
+<h1 align="center">¡Hi! I'm Williams Pino <a> <br> <img aling="left" width="100" height="100" src="https://github.com/WPinoCaico/wpinocaico/blob/624ac5ae10a252f2faf57c556418113ce9a13f58/imgs/muzan-glich.gif?raw=true" /></a></h1>
+
 <h3 align="center">Bachelor in Systems Engineering | Developer</h3>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
-<h3 align="left">Connect with me:</h3>
+ 
+<h3 align="left">📱 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/wpinocaico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wpinocaico" height="30" width="40" /></a>
 <a href="https://fb.com/williamsscreamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="williamsscreamo" height="30" width="40" /></a>

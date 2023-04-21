@@ -50,12 +50,13 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/e3cb6206b81a2166cc3b809581f057af6f09b296/imgs/programation_logo/firebase.svg" alt="firebase" width="40" height="40"/> </a>
  
 <p>Framework</p>    
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/laravel.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/figma.svg" alt="figma" width="40" height="40"/> </a> 
  
 <p>Software</p> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/ilustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
   
-<p>Other</p> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<p>Operating Systems</p> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/5c68fa326cd01040149648d8920b7fcf544ba47c/imgs/programation_logo/linux.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/es-es/windows" target="_blank" rel="noreferrer"> <img src="https://github.com/WPinoCaico/wpinocaico/blob/47ea5298101e36720f0071743ca1d247fbd2c25d/imgs/programation_logo/windows10.svg" alt="windows" width="40" height="40"/> </a>
  

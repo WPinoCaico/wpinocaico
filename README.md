@@ -13,7 +13,7 @@
 <a href="https://instagram.com/williamspcaico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamspcaico" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Certificates:</h2>
+<h2 align="left">✨Certificates:</h2>
 <div align="center">
 <a href="https://www.credly.com/badges/efa6a7f5-f938-4856-b82b-04d28a1e9a47/" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/CyberEssentials.png"> 
 <a href="https://www.credly.com/badges/65ea5292-75f3-435a-a162-882f8dddb55b" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/Introduction%20to%20Cybersecurity.png">    

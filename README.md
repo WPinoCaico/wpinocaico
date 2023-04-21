@@ -3,7 +3,7 @@
 <h3 align="center"><a> <br> <img aling="left" width="100" height="100" src="https://github.com/WPinoCaico/wpinocaico/blob/624ac5ae10a252f2faf57c556418113ce9a13f58/imgs/muzan-glich.gif?raw=true" /></a></h3>
 <h3 align="center">Bachelor in Systems Engineering | Developer</h3>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
-<p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
+<p> <li> I'm interested in learning technologies, databases and cybersecurity 💻<p>
  
 <h2 align="left">📱 Connect with me</h2>
 <p align="left">

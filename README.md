@@ -15,11 +15,11 @@
 
 <h2 align="left">Certificates:</h2>
 <div align="center">
-<a href="https://www.credly.com/badges/efa6a7f5-f938-4856-b82b-04d28a1e9a47/" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/7bd52aa209e593c0ea13961c96a97cda59a33cc7/imgs/CyberEssentials.png"> 
-<a href="https://www.credly.com/badges/65ea5292-75f3-435a-a162-882f8dddb55b" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/ab4cb40af87fdd4ef23f4cb0330da6288dd05b74/imgs/Introduction%20to%20Cybersecurity.png">    
-<a href="https://www.credly.com/badges/c5ca2eae-d3d8-4de7-bcc7-e06060644cdd" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/56ae68fa84d5ea0f04538b220fe763dd2e752550/imgs/Introduction%20to%20Data%20Science.png">    
-<a href="https://www.credly.com/badges/edf42159-8845-409d-9bb1-b94faef642f8" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/06e41ca7db9ed8b82c2b691b85e6cdce2b404d23/imgs/Introduction%20to%20Packet%20Tracer.png">      
-<a href="https://www.credly.com/badges/caf2702d-1b59-4511-a71a-3d0487ae4221" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/046cf0784d5233161c52dda8429033cb09be7809/imgs/Python%20Essentials%201.png">
+<a href="https://www.credly.com/badges/efa6a7f5-f938-4856-b82b-04d28a1e9a47/" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/CyberEssentials.png"> 
+<a href="https://www.credly.com/badges/65ea5292-75f3-435a-a162-882f8dddb55b" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/Introduction%20to%20Cybersecurity.png">    
+<a href="https://www.credly.com/badges/c5ca2eae-d3d8-4de7-bcc7-e06060644cdd" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/Introduction%20to%20Data%20Science.png">    
+<a href="https://www.credly.com/badges/edf42159-8845-409d-9bb1-b94faef642f8" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/Introduction%20to%20Packet%20Tracer.png">      
+<a href="https://www.credly.com/badges/caf2702d-1b59-4511-a71a-3d0487ae4221" target="_blank"><img aling="center" width="90" height="90" src="https://github.com/WPinoCaico/wpinocaico/blob/6192df2811709d3c6f80172f91f27088c6f7406a/imgs/certified_courses/Python%20Essentials%201.png">
 </div>
  
 <h2 align="left">🛠 Skills</h2>

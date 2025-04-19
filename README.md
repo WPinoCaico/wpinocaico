@@ -1,7 +1,7 @@
 <h1 align="center">¡Hi! I'm Williams Pino </h1>
 
 <h3 align="center"><a> <br> <img aling="left" width="100" height="100" src="https://github.com/WPinoCaico/wpinocaico/blob/624ac5ae10a252f2faf57c556418113ce9a13f58/imgs/muzan-glich.gif?raw=true" /></a></h3>
-<h3 align="center">Bachelor in Systems Engineering | Developer</h3>
+<h3 align="center">Systems Engineering | Developer</h3>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in learning technologies, databases and cybersecurity 💻<p>
  
